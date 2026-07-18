@@ -2,7 +2,7 @@
 
 **Frontend Developer · Angular Specialist · AI Speaker**
 
-Ingeniero informático con +4 años de experiencia construyendo aplicaciones enterprise con Angular. Actualmente trabajo en el sector asegurador, donde he liderado migraciones técnicas (Angular v9→12, v9→16) y actúo como referente técnico del equipo frontend. Fuera del trabajo, doy charlas sobre IA aplicada al desarrollo y construyo proyectos propios para seguir aprendiendo.
+Ingeniero informático con +4 años de experiencia construyendo aplicaciones enterprise con Angular. Actualmente trabajo en el sector asegurador, donde he liderado migraciones técnicas (Angular v9→12, v9→16) y actúo como referente técnico del equipo frontend. En la empresa, doy charlas sobre IA aplicada al desarrollo, a la parte funcional y construyo proyectos propios para seguir aprendiendo.
 
 > *Computer Engineer with 4+ years of experience building enterprise apps with Angular. Currently working in the insurance sector, leading technical migrations and acting as the frontend technical reference. Outside work, I give talks on AI for developers and build side projects to keep growing.*
 
@@ -43,8 +43,12 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 ## GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Juaaaaan&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juaaaaan&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Top Languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juaaaaan&theme=default" alt="GitHub Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juaaaaan&theme=default" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Juaaaaan&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
