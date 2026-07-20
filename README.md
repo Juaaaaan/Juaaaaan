@@ -44,7 +44,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 - 🔧 Construyendo **Resin Craft Art** — un e-commerce real con Angular 21 de punta a punta
 - 🎤 Preparando charlas sobre **IA aplicada al desarrollo frontend**
 - 📚 Profundizando en **JavaScript fundamentals** y **patrones arquitectónicos**
-- 🗺️ Siguiendo mi roadmap: Angular → NestJS → Next.js → AI integration
+- 🗺️ Siguiendo mi roadmap: Angular → Next.js → AI integration
 
 ---
 
