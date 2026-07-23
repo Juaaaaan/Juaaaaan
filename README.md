@@ -1,6 +1,6 @@
 # Hola, soy Juan José 👋
 
-**Frontend Developer · Angular Specialist · AI Speaker**
+**Senior Frontend Developer · Angular Specialist · AI Speaker**
 
 Ingeniero informático con +4 años de experiencia construyendo aplicaciones enterprise con Angular. Actualmente trabajo en el sector asegurador, donde he liderado migraciones técnicas (Angular v9→12, v9→16) y actúo como referente técnico del equipo frontend. En el trabajo, doy charlas sobre IA aplicada tanto al desarrollo como a compañeros funcionales y construyo proyectos propios para seguir aprendiendo.
 
