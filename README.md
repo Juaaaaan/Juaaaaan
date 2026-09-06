@@ -14,6 +14,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
@@ -35,7 +36,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 | [**Resin Craft Art**](https://github.com/Juaaaaan/Resin-Craft) | E-commerce de arte en resina artesanal · SSR, Signals-first, zoneless | Angular 21 · Tailwind v4 · Supabase · Stripe |
 | [**IAs Talks**](https://github.com/Juaaaaan/IAs-talks) | Sistema de gestión de conocimiento con pipeline automatizado Obsidian ↔ GitHub ↔ Claude | Obsidian · MCP · Markdown |
 | [**Vitalitty AI**](https://github.com/Juaaaaan/vitalitty-ai) | Sistema de automatización para la creación de dietas personalizadas mediante IA | TypeScript |
-| [**JUDiX**](https://github.com/Juaaaaan/JUDiX) | Proyecto personal con Astro en producción -> [JUDiX](https://www.judixpro.com){:target="_blank"} | Astro |
+| [**JUDiX**](https://github.com/Juaaaaan/JUDiX) | Proyecto personal con Astro.js en producción -> [JUDiX](https://www.judixpro.com) | Astro |
 
 ---
 
