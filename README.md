@@ -31,10 +31,11 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 
 | Proyecto | Descripción | Stack |
 |----------|------------|-------|
+| [**Vitalitty**](https://github.com/Juaaaaan/vitalitty-web) | Migración de Wix a Astro.js | Astro.js · Claude · Vercel · SpecKit |
 | [**Resin Craft Art**](https://github.com/Juaaaaan/Resin-Craft) | E-commerce de arte en resina artesanal · SSR, Signals-first, zoneless | Angular 21 · Tailwind v4 · Supabase · Stripe |
 | [**IAs Talks**](https://github.com/Juaaaaan/IAs-talks) | Sistema de gestión de conocimiento con pipeline automatizado Obsidian ↔ GitHub ↔ Claude | Obsidian · MCP · Markdown |
 | [**Vitalitty AI**](https://github.com/Juaaaaan/vitalitty-ai) | Sistema de automatización para la creación de dietas personalizadas mediante IA | TypeScript |
-| [**JUDiX**](https://github.com/Juaaaaan/JUDiX) | Proyecto personal con Astro en producción (https://www.judixpro.com/) | Astro |
+| [**JUDiX**](https://github.com/Juaaaaan/JUDiX) | Proyecto personal con Astro en producción -> [JUDiX](https://www.judixpro.com){:target="_blank"} | Astro |
 
 ---
 
