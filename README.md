@@ -32,7 +32,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 
 | Proyecto | Descripción | Stack |
 |----------|------------|-------|
-| [**Vitalitty**](https://github.com/Juaaaaan/vitalitty-web) | Migración de Wix a Astro.js | Astro.js · Claude · Vercel · SpecKit |
+| [**Vitalitty**](https://github.com/Juaaaaan/vitalitty-web) | Migración de Wix a Astro.js -> [Vitalitty](https://www.vitalitty.es/) | Astro.js · Claude · Vercel · SpecKit · Resend · Turnstile |
 | [**Resin Craft Art**](https://github.com/Juaaaaan/Resin-Craft) | E-commerce de arte en resina artesanal · SSR, Signals-first, zoneless | Angular 21 · Tailwind v4 · Supabase · Stripe |
 | [**IAs Talks**](https://github.com/Juaaaaan/IAs-talks) | Sistema de gestión de conocimiento con pipeline automatizado Obsidian ↔ GitHub ↔ Claude | Obsidian · MCP · Markdown |
 | [**Vitalitty AI**](https://github.com/Juaaaaan/vitalitty-ai) | Sistema de automatización para la creación de dietas personalizadas mediante IA | TypeScript |
@@ -42,7 +42,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 
 ## Actualmente
 
-- 🛠️ Migrando **Vitalitty** - Web de nutrición y fisoterapia de Wix a Astro con SpecKit y Vercel
+- 🛠️ Migración completa de **Vitalitty** - Web de nutrición y fisoterapia de Wix a Astro con SpecKit y Vercel
 - 🔧 Construyendo **Resin Craft Art** — un e-commerce real con Angular 21 de punta a punta
 - 🎤 Preparando charlas sobre **IA aplicada al desarrollo frontend**
 - 📚 Profundizando en **JavaScript fundamentals** y **patrones arquitectónicos**
