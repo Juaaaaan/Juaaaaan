@@ -43,7 +43,7 @@ Ingeniero informático con +4 años de experiencia construyendo aplicaciones ent
 ## Actualmente
 
 - 🛠️ Migración completa de **Vitalitty** - Web de nutrición y fisoterapia de Wix a Astro con SpecKit y Vercel
-- 🔧 Construyendo **Resin Craft Art** — un e-commerce real con Angular 21 de punta a punta
+- 🔧 Construyendo **Sublime** — un e-commerce real con Angular 21 de punta a punta
 - 🎤 Preparando charlas sobre **IA aplicada al desarrollo frontend**
 - 📚 Profundizando en **JavaScript fundamentals** y **patrones arquitectónicos**
 - 🗺️ Siguiendo mi roadmap: Angular → Next.js → AI integration
